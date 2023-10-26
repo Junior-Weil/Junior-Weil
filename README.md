@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently a junior studying Computer Science and Engineering at Bucknell University (2025).\
 🌱 &nbsp;I'm passionate about Blockchain (Solidity and Move experience), Machine Learning, and Mathematics.\
 ✍️ &nbsp;In my free time, I like to tinker on new projects, weightlift, and read.\
-✉️ &nbsp;You can shoot me an email at jakepiskadlo@gmail.com, and I'll be sure to respond ASAP.
+✉️ &nbsp;You can shoot me an email at rmw020@bucknell.edu, and I'll be sure to respond ASAP.
 
 
 :briefcase: &nbsp;Currently looking for Software Engineering internships for Summer 2024 and beyond to further build my skills.\

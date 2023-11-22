@@ -4,8 +4,8 @@
 
 💡 &nbsp;I'm Ronald Weil, a student who enjoys reading about and learning new topics to make cool projects!\
 🎓 &nbsp;I'm currently a junior studying Computer Science and Engineering at Bucknell University (2025).\
-🌱 &nbsp;I'm passionate about Blockchain (Solidity and Move experience), Machine Learning, and Mathematics.\
-✍️ &nbsp;In my free time, I like to tinker on new projects, weightlift, and read.\
+🌱 &nbsp;I'm passionate about Blockchain, Machine Learning, and Mathematics.\
+✍️ &nbsp;In my free time, I like to tinker on new projects, exercise, and read.\
 ✉️ &nbsp;You can shoot me an email at rmw020@bucknell.edu, and I'll be sure to respond ASAP.
 
 

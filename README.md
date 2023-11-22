@@ -27,6 +27,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ronald-weil-9561a6251"><img src="https://img.shields.io/badge/-Ronald%20Weil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="rmw020@bucknell.edu"><img src="https://img.shields.io/badge/-rmw020@bucknell.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:rmw020@bucknell.edu"><img src="https://img.shields.io/badge/-rmw020@bucknell.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 <sub> Thank you @AVS1508 for the design! </sub>

@@ -2,14 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm Ronald Weil, a student who enjoys reading about and learning new topics to make cool projects!\
-🎓 &nbsp;I'm currently a junior studying Computer Science and Engineering at Bucknell University (2025).\
-🌱 &nbsp;I'm passionate about Blockchain, Machine Learning, and Mathematics.\
+💡 &nbsp;I'm Ronald Weil, a developer who enjoys reading about and learning new topics to make cool projects!\
+🎓 &nbsp;I'm a recent graduate. I majored in Computer Science and Engineering at Bucknell University (2025).\
+🌱 &nbsp;I'm passionate about Machine Learning, Physics, and Mathematics.\
 ✍️ &nbsp;In my free time, I like to tinker on new projects, exercise, and read.\
 ✉️ &nbsp;You can shoot me an email at rmw020@bucknell.edu, and I'll be sure to respond ASAP.
 
 
-:briefcase: &nbsp;Currently looking for Software Engineering internships for Summer 2024 and beyond to further build my skills.\
+:briefcase: &nbsp;Currently looking for Software Engineering positions to gain experience and further build my skills.\
 📄 &nbsp;Please contact me to get a copy of my resume or if you have any questions!
 
 ### 🛠 &nbsp;Tech Stack
